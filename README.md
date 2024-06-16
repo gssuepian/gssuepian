@@ -16,7 +16,6 @@ I'm currently pursuing a dual Master's in Management and MSc in Big Data & Busin
 - 🎨 **Hobbies:**
   - Dance
   - Volleyball
-  - Puzzle games 
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/siriyakorn-suepiantham/])
