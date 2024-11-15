@@ -10,6 +10,8 @@ I'm currently pursuing a dual Master's in Management and MSc in Big Data & Busin
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-00C7B7?logo=postgresql&logoColor=black&style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
 ![BigML](https://img.shields.io/badge/-BigML-2C8EBB?logo=bigml&logoColor=white&style=for-the-badge) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-4B8BBE?logo=dataiku&logoColor=white&style=for-the-badge)
