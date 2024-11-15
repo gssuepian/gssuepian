@@ -1,4 +1,4 @@
-# Hi there, I'm Gina! 👋
+# Hi there, I'm Siriyakorn! 👋
 
 ## 🌟 About Me
 I'm currently pursuing a dual Master's in Management and MSc in Big Data & Business Analytics. Originally from Thailand and having done my bachelors in Switzerland, I'm now studying in Madrid, Spain 🇹🇭🇨🇭🇪🇸
@@ -12,6 +12,9 @@ I'm currently pursuing a dual Master's in Management and MSc in Big Data & Busin
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
 ![BigML](https://img.shields.io/badge/-BigML-2C8EBB?logo=bigml&logoColor=white&style=for-the-badge) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![Dataiku](https://img.shields.io/badge/-Dataiku-4B8BBE?logo=dataiku&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
 
 - 🎨 **Hobbies:**
   - Dance
@@ -21,7 +24,7 @@ I'm currently pursuing a dual Master's in Management and MSc in Big Data & Busin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/siriyakorn-suepiantham/])
 
 ## 📊 Projects & Contributions
-- Project 1:..
+- Project 1: Diabetes Prediction Web Application with Streamlit 👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-0A1F44?logo=streamlit)](https://individualproject-siriyakorn-suepiantham.streamlit.app/)  
 
 Thank you for visiting my GitHub profile! 😊
 
