@@ -26,7 +26,8 @@ I'm currently pursuing a dual Master's in Management and MSc in Big Data & Busin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/siriyakorn-suepiantham/])
 
 ## 📊 Projects & Contributions
-- Project 1: Diabetes Prediction Web Application with Streamlit 👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-0A1F44?logo=streamlit)](https://individualproject-siriyakorn-suepiantham.streamlit.app/)  
+- Diabetes Prediction Web Application with Streamlit 👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-0A1F44?logo=streamlit)](https://individualproject-siriyakorn-suepiantham.streamlit.app/)
+- Generative AI Personalized Skin Analysis with Gemini 1.5 Flash and Streamlit 👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-0A1F44?logo=streamlit)](https://group5-skinanalysis.streamlit.app/)
 
 Thank you for visiting my GitHub profile! 😊
 
